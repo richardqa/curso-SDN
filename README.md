@@ -4,7 +4,7 @@
 
 **Duración**: 12 horas
 
-**Acerca del curso**: Introducir los conceptos básicos y avanzados de las Redes Definidas por Software (SDN) y nuevas tecnologías de virtualización. El curso taller también da a conocer diferentes modelos de SDN, las diferentes versiones del protocolo Openflow, los controladores Open Dayligth y Ryu. Finalmente se demostrará algunas pruebas de concepto del funcionamiento de las Aplicaciones SDN usando OpenFlow.
+**Acerca del curso**: Introducir los conceptos básicos y avanzados de las Redes Definidas por Software (SDN) y Funciones de Redes Virtuales (NFV) usando nuevas tecnologías de virtualización. El curso taller también dará a conocer diferentes modelos de SDN y NFV, diferentes versiones del protocolo Openflow, los controladores Open Dayligth y Ryu. Finalmente se demostrará algunas pruebas de concepto del funcionamiento de las Aplicaciones SDN usando OpenFlow y NFV usando Docker.
 
 Requerimientos:
 
