@@ -12,7 +12,7 @@ Requerimientos:
 2. Se compartirá una imagen .OVA de Virtualbox a cada uno de los asistentes. Ésta imágen compartida en Dropbox será divulgada una semana antes del taller de capacitación.
 3. El curso es Teórico y Práctico. El tiempo de duración del curso será de 12 horas aproximadamente.
 
-## Modulo 1: Introducción a SDN/OpenFlow (4h 40')
+## Modulo 1: Introducción a SDN/OpenFlow
 
 1. Introducción a las Redes Definidas por Software (SDN)
 
@@ -36,9 +36,9 @@ Práctica 1:
 
 Práctica 2:
 
-	- Despliegue de componentes SDN en Mininet (16:20-16:50)
-	- RESTful y CURL (16:50-17:20)
-	- Uso de Postman (17:20-17:40)
+	- Despliegue de componentes SDN en Mininet
+	- RESTful y CURL
+	- Uso de Postman
 
 ## Modulo 3: Aplicaciones SDN
 
