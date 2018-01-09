@@ -14,11 +14,11 @@ Requerimientos:
 
 ## Modulo 1: Introducción a SDN/OpenFlow
 
-1. Introducción a las Redes Definidas por Software (SDN)
+1. Introducción a las Redes Definidas por Software (SDN) y Funciones de Redes Virtuales (NFV)
 
-	- Visión general de SDN
-	- Arquitectura SDN
-	- Diferentes Modelos de SDN
+	- Visión general de SDN y NFV
+	- Arquitectura SDN y NFV
+	- Diferentes Modelos de SDN y NFV
 	- Protocolo OpenFlow y su evolución
 	- Switches SDN/OpenFlow
 
@@ -42,15 +42,17 @@ Práctica 2:
 
 ## Modulo 3: Aplicaciones SDN
 
-3. Introducción a las Aplicaciones SDN
+3. Introducción a las Aplicaciones SDN y NFV
 
-	- Modelo Proactivo SDN
-	- Modelo Reactivo SDN	
+	- Modelo Proactivo
+	- Modelo Reactivo
+	- Contenedores Docker	
 
 Práctica 3:
 
 	- Ejercicio de Learning Switch con OpenFlow 1.3
 	- Ejercicio de Monitoreo usando una aplicación TAP
+	- Ejercicios de aplicaciones NFV usando Docker
 
 ### Referencias
 ```
