@@ -1,6 +1,6 @@
 # Hoja de Ruta: Tutorial SDN 
 
-**Fecha del Curso**: **A Definir"**
+**Fecha del Curso**: **"A Definir"**
 
 **Duración**: 12 horas = 4 horas por 3 días o 6 horas por 2 días.
 
@@ -26,9 +26,7 @@ Práctica 1:
 
 	- Laboratorio de Mininet con OpenFlow 1.0 y OpenFlow 1.3
 
-Almuerzo: 13:00 a 14:00hrs
-
-## Modulo 2: Introducción a los controladores SDN (3h 20')
+## Modulo 2: Introducción a los controladores SDN
 
 2. Introducción a Controladores SDN
 
@@ -39,7 +37,7 @@ Almuerzo: 13:00 a 14:00hrs
 Práctica 2:
 
 	- Despliegue de componentes SDN en Mininet (16:20-16:50)
-	- Uso de interfaces RESTful y CURL (16:50-17:20)
+	- RESTful y CURL (16:50-17:20)
 	- Uso de Postman (17:20-17:40)
 
 ## Modulo 3: Aplicaciones SDN
